@@ -70,3 +70,7 @@ h1.header-title {
     text-align: center;
     display: none;
 }
+
+.panel-footer small {
+    color: #999;
+}
