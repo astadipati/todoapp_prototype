@@ -74,3 +74,9 @@ h1.header-title {
 .panel-footer small {
     color: #999;
 }
+
+
+/* Modal */
+.modal-content {
+    background: #f1f1f1 url('../img/body-bg.png');
+}
