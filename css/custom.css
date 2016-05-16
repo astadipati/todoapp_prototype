@@ -92,6 +92,7 @@ input.task-input {
     height: 46px;
     line-height: 1.33333;
     color: #555;
+    background: #fff;
     display: block;
     font-style: italic;
 }
